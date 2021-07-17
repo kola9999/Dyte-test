@@ -8,6 +8,8 @@ saves and run code automatically.
 Delete, Share code option is available.
 
 ## App deployed at (http://dyte-task.reddynagendrakola.study/)
+![image](https://user-images.githubusercontent.com/39917725/126043411-529341ff-d53a-476b-99ed-a3456034b547.png)
+
 
 Create a process.env file for the credentials.
 
