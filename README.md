@@ -1,4 +1,4 @@
-This project was created by Reddy nagendr kola  for Dyte-task
+This project was created by Reddy nagendra kola  for Dyte-task
 
 
 ## Online Code editor with html, css, js options and live preview
@@ -7,7 +7,7 @@ saves and run code automatically.
 
 Delete, Share code option is available.
 
-
+##App deployed at (http://dyte-task.reddynagendrakola.study/)
 
 
 
