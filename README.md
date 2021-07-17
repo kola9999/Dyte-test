@@ -10,6 +10,10 @@ Delete, Share code option is available.
 ## App deployed at (http://dyte-task.reddynagendrakola.study/)
 ![image](https://user-images.githubusercontent.com/39917725/126043411-529341ff-d53a-476b-99ed-a3456034b547.png)
 
+## Live View
+![image](https://user-images.githubusercontent.com/39917725/126043466-cf531f6a-3f30-4df6-84f5-f670cb5cc70f.png)
+## css demo
+![image](https://user-images.githubusercontent.com/39917725/126043490-4ccc2677-c333-4d52-9ba4-ec8cd6bfe557.png)
 
 Create a process.env file for the credentials.
 
