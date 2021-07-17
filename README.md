@@ -1,13 +1,15 @@
 This project was created by Reddy nagendra kola  for Dyte-task
 
 
-## Online Code editor with html, css, js options and live preview
+## Online Code editor with html, css, js options and live view
 
 saves and run code automatically.
 
 Delete, Share code option is available.
 
-##App deployed at (http://dyte-task.reddynagendrakola.study/)
+## App deployed at (http://dyte-task.reddynagendrakola.study/)
+
+Create a process.env file for the credentials.
 
 
 
