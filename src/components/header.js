@@ -52,14 +52,14 @@ export default function Header() {
         >
           <IoLogoJavascript size="1.5rem" />
         </div>
+      </div>
+      <div class="menu">
         <div
           class={mode === "js" ? "tool-icon selected" : "tool-icon"}
           onClick={() => {localStorage.clear()}}
         >
           <RiDeleteBin6Line size="1.5rem" />
         </div>
-      </div>
-      <div class="menu">
         <button style={{ color: "ffffff" }} onClick={onSubmit}>
           {" "}
           share
