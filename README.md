@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by Reddy nagendr kola  for Dyte-task
+
+
+## Online Code editor with html, css, js options and live preview
+
+saves and run code automatically.
+
+Delete, Share code option is available.
+
+
+
+
+
+
+
 
 ## Available Scripts
 
@@ -66,3 +80,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
