@@ -1,7 +1,7 @@
 This project was created by Reddy nagendra kola  for Dyte-task
 
 
-## Online Code editor with html, css, js options and live view
+## Online Code editor made with ReactJS, supports html, css, js options and live view of the website
 
 saves and run code automatically.
 
