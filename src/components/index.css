@@ -1,0 +1,155 @@
+.center {
+  display: flex;
+  align-items: center;
+}
+.tool-icon {
+  color: rgba(255,255,255,0.75);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  border-radius: 8px;
+  margin-right: 10px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+}
+.tool-icon.selected {
+  background: #535a63;
+}
+.tool-icon:hover {
+  background: #535a63;
+}
+.cm-s-material .CodeMirror-gutters, .cm-s-material.CodeMirror {
+  background: #36404a !important;
+}
+.cm-s-material.CodeMirror {
+  border-radius: 8px;
+}
+.runjs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #323b44;
+}
+.runjs__header {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  height: 42px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  background: #36404a;
+  
+}
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.runjs ::-webkit-scrollbar {
+  width: 10px;
+}
+.runjs ::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  border-radius: 10px;
+}
+.runjs ::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+.runjs__editor {
+  position: absolute;
+  top: 62px;
+  left: 10px;
+  bottom: 20px;
+  width: 650px;
+  border-radius: 8px;
+  background: #36404a;
+  overflow: auto;
+}
+.runjs__editor > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.runjs__preview {
+  position: absolute;
+  top: 62px;
+  right: 10px;
+  bottom: 20px;
+  left: 670px;
+  border-radius: 8px;
+  background: #ffffff;
+  overflow: auto;
+}
+.runjs__console {
+  position: absolute;
+  right: 10px;
+  height: 200px;
+  bottom: 10px;
+  left: 10px;
+  border-radius: 8px;
+  overflow-y: auto;
+  background: #36404a;
+}
+.runjs__console .log-wrap {
+  min-height: 28px;
+  display: flex;
+  align-items: flex-start;
+  color: rgba(255,255,255,0.4);
+  margin: 5px 10px;
+  border-bottom: 1px solid #454e58;
+}
+.runjs__console .log-wrap .log-str {
+  flex: 1;
+}
+.runjs__console .log-wrap .log-type__warn {
+  width: 250px;
+  flex-shrink: 0;
+  margin-right: 12px;
+  color: orange;
+}
+.runjs__console .log-wrap .log-type__log {
+  width: 250px;
+  flex-shrink: 0;
+  margin-right: 12px;
+  color: #57b99d;
+}
+.runjs__console .log-wrap .log-type__info {
+  width: 250px;
+  flex-shrink: 0;
+  margin-right: 12px;
+  color: #5caed6;
+}
+.runjs__console .log-wrap .log-type__error {
+  width: 250px;
+  flex-shrink: 0;
+  margin-right: 12px;
+  color: #e0606f;
+}
+.CodeMirror {
+  height: 100% !important;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.code-mirror-wrapper {
+  flex-grow: 1;
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  overflow: hidden;
+}
+.editor-title {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f2023;
+  color: white;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  border-top-right-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+}
